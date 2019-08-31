@@ -2,13 +2,20 @@
 Deloyable Web app using tensorflowjs based on pre trained ImageNet model for image classification
 
 
--Run the HTML file in browser
+Run the HTML file in browser
 
--Check the localhost
+Check the localhost
 
--Done!!
+Done!!
 
 
+--js file
+
+index.js - loads the model and classify the images
+
+--HTML file
+
+index.html - executes the app in the webpage
 
 
 
