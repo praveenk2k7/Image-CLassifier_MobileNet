@@ -1,2 +1,5 @@
 # Image-CLassifier_MobileNet
-Web app using tensorflowjs based on pre trained ImageNet model
+Deloyable Web app using tensorflowjs based on pre trained ImageNet model for image classification
+
+
+
