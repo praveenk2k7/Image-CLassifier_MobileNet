@@ -10,18 +10,18 @@ Check the localhost
 Done!!
 
 
-**js file
+##Javascript
 
 index.js - loads the model and classify the images
 
-**HTML file
+##HTML file
 
 index.html - executes the app in the webpage
 
 
-**Technology Used: 
+##Technology Used: 
 
-tensorflowjs
+Tensorflowjs
 
 Javascript
 
