@@ -3,7 +3,9 @@ Deloyable Web app using tensorflowjs based on pre trained ImageNet model for ima
 
 
 -Run the HTML file in browser
+
 -Check the localhost
+
 -Done!!
 
 
