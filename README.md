@@ -1,13 +1,15 @@
 # Image-CLassifier_MobileNet
+
 Deloyable Web app using tensorflowjs based on pre trained ImageNet model for image classification
 
 This project is based on tensorflowjs tutorial.
 
-Run the HTML file in browser
+Steps
+	Run the HTML file in browser
 
-Check the localhost
+	Check the localhost
 
-Done!!
+	Done!!
 
 
 Javascript
@@ -26,6 +28,9 @@ Technology Used:
 	Javascript
 
 	HTML
+	
+	
+
 
 
 
