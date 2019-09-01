@@ -5,6 +5,7 @@ Deloyable Web app using tensorflowjs based on pre trained ImageNet model for ima
 This project is based on tensorflowjs tutorial.
 
 Steps
+	
 	Run the HTML file in browser
 
 	Check the localhost
@@ -29,6 +30,8 @@ Technology Used:
 
 	HTML
 	
+
+
 	
 
 
