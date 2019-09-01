@@ -4,6 +4,8 @@ Deloyable Web app using tensorflowjs based on pre trained ImageNet model for ima
 
 This project is based on tensorflowjs tutorial.
 
+TensorFlow.js is a JavaScript Library for training and deploying machine learning models in the browser and in Node.js.
+
 Steps
 	
 	Run the HTML file in browser
@@ -29,6 +31,12 @@ Technology Used:
 	Javascript
 
 	HTML
+	
+More about Mobilenet:
+
+	Open source model for efficient on device vision applications.
+
+	https://arxiv.org/abs/1704.04861?source=post_page
 	
 
 
