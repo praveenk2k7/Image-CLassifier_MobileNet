@@ -1,0 +1,21 @@
+<html>
+  <head>
+
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+    <meta content="utf-8" http-equiv="encoding">
+    <!-- Load the latest version of TensorFlow.js -->
+    <script src="https://unpkg.com/@tensorflow/tfjs"></script>
+    <script src="https://unpkg.com/@tensorflow-models/mobilenet"></script>
+  </head>
+  <body style="display:flex; flex-direction: column;">
+    <h1> Image Classifier - MobileNet </h1>
+    <div id="console"></div>
+    <!-- Add an image that we will use to test -->
+    <img id="img" crossOrigin src="https://images.pexels.com/photos/356378/pexels-photo-356378.jpeg?cs=srgb&dl=adorable-animal-breed-356378.jpg&fm=jpg" width=227 height=227/>
+    <button type="button" onclick="app()" style="font-weight: 500; font-size: 25">Predict </button>
+    <h3 id="result"></h3>
+
+    <!-- Load index.js after the content of the page -->
+    <script src="index.js"></script>
+  </body>
+</html>
